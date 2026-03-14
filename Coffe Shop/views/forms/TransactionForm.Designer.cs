@@ -42,20 +42,20 @@
             pictureBox5 = new PictureBox();
             button2 = new Button();
             panel1 = new Panel();
-            textBox1 = new TextBox();
-            label7 = new Label();
-            label8 = new Label();
-            label9 = new Label();
-            label10 = new Label();
-            label11 = new Label();
-            label12 = new Label();
-            textBox2 = new TextBox();
-            textBox3 = new TextBox();
-            textBox4 = new TextBox();
-            textBox5 = new TextBox();
-            textBox6 = new TextBox();
             button3 = new Button();
             button4 = new Button();
+            textBox6 = new TextBox();
+            textBox5 = new TextBox();
+            textBox4 = new TextBox();
+            textBox3 = new TextBox();
+            textBox2 = new TextBox();
+            label12 = new Label();
+            label11 = new Label();
+            label10 = new Label();
+            label9 = new Label();
+            label8 = new Label();
+            label7 = new Label();
+            textBox1 = new TextBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
@@ -197,102 +197,6 @@
             panel1.Size = new Size(451, 271);
             panel1.TabIndex = 17;
             // 
-            // textBox1
-            // 
-            textBox1.Location = new Point(97, 25);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(246, 23);
-            textBox1.TabIndex = 0;
-            // 
-            // label7
-            // 
-            label7.AutoSize = true;
-            label7.Location = new Point(19, 25);
-            label7.Name = "label7";
-            label7.Size = new Size(38, 15);
-            label7.TabIndex = 18;
-            label7.Text = "Menu";
-            // 
-            // label8
-            // 
-            label8.AutoSize = true;
-            label8.Location = new Point(19, 150);
-            label8.Name = "label8";
-            label8.Size = new Size(24, 15);
-            label8.TabIndex = 19;
-            label8.Text = "Tax";
-            // 
-            // label9
-            // 
-            label9.AutoSize = true;
-            label9.Location = new Point(19, 118);
-            label9.Name = "label9";
-            label9.Size = new Size(55, 15);
-            label9.TabIndex = 20;
-            label9.Text = "Sub Total";
-            // 
-            // label10
-            // 
-            label10.AutoSize = true;
-            label10.Location = new Point(19, 89);
-            label10.Name = "label10";
-            label10.Size = new Size(33, 15);
-            label10.TabIndex = 21;
-            label10.Text = "Price";
-            // 
-            // label11
-            // 
-            label11.AutoSize = true;
-            label11.Location = new Point(19, 57);
-            label11.Name = "label11";
-            label11.Size = new Size(53, 15);
-            label11.TabIndex = 22;
-            label11.Text = "Quantity";
-            // 
-            // label12
-            // 
-            label12.AutoSize = true;
-            label12.Location = new Point(19, 179);
-            label12.Name = "label12";
-            label12.Size = new Size(32, 15);
-            label12.TabIndex = 23;
-            label12.Text = "Total";
-            // 
-            // textBox2
-            // 
-            textBox2.Location = new Point(97, 57);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(246, 23);
-            textBox2.TabIndex = 24;
-            // 
-            // textBox3
-            // 
-            textBox3.Location = new Point(97, 115);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(246, 23);
-            textBox3.TabIndex = 25;
-            // 
-            // textBox4
-            // 
-            textBox4.Location = new Point(97, 147);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(246, 23);
-            textBox4.TabIndex = 26;
-            // 
-            // textBox5
-            // 
-            textBox5.Location = new Point(97, 86);
-            textBox5.Name = "textBox5";
-            textBox5.Size = new Size(246, 23);
-            textBox5.TabIndex = 27;
-            // 
-            // textBox6
-            // 
-            textBox6.Location = new Point(97, 179);
-            textBox6.Name = "textBox6";
-            textBox6.Size = new Size(246, 23);
-            textBox6.TabIndex = 28;
-            // 
             // button3
             // 
             button3.Location = new Point(201, 219);
@@ -310,6 +214,102 @@
             button4.TabIndex = 19;
             button4.Text = "Sample Menu";
             button4.UseVisualStyleBackColor = true;
+            // 
+            // textBox6
+            // 
+            textBox6.Location = new Point(97, 179);
+            textBox6.Name = "textBox6";
+            textBox6.Size = new Size(246, 23);
+            textBox6.TabIndex = 28;
+            // 
+            // textBox5
+            // 
+            textBox5.Location = new Point(97, 86);
+            textBox5.Name = "textBox5";
+            textBox5.Size = new Size(246, 23);
+            textBox5.TabIndex = 27;
+            // 
+            // textBox4
+            // 
+            textBox4.Location = new Point(97, 147);
+            textBox4.Name = "textBox4";
+            textBox4.Size = new Size(246, 23);
+            textBox4.TabIndex = 26;
+            // 
+            // textBox3
+            // 
+            textBox3.Location = new Point(97, 115);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(246, 23);
+            textBox3.TabIndex = 25;
+            // 
+            // textBox2
+            // 
+            textBox2.Location = new Point(97, 57);
+            textBox2.Name = "textBox2";
+            textBox2.Size = new Size(246, 23);
+            textBox2.TabIndex = 24;
+            // 
+            // label12
+            // 
+            label12.AutoSize = true;
+            label12.Location = new Point(19, 179);
+            label12.Name = "label12";
+            label12.Size = new Size(32, 15);
+            label12.TabIndex = 23;
+            label12.Text = "Total";
+            // 
+            // label11
+            // 
+            label11.AutoSize = true;
+            label11.Location = new Point(19, 57);
+            label11.Name = "label11";
+            label11.Size = new Size(53, 15);
+            label11.TabIndex = 22;
+            label11.Text = "Quantity";
+            // 
+            // label10
+            // 
+            label10.AutoSize = true;
+            label10.Location = new Point(19, 89);
+            label10.Name = "label10";
+            label10.Size = new Size(33, 15);
+            label10.TabIndex = 21;
+            label10.Text = "Price";
+            // 
+            // label9
+            // 
+            label9.AutoSize = true;
+            label9.Location = new Point(19, 118);
+            label9.Name = "label9";
+            label9.Size = new Size(55, 15);
+            label9.TabIndex = 20;
+            label9.Text = "Sub Total";
+            // 
+            // label8
+            // 
+            label8.AutoSize = true;
+            label8.Location = new Point(19, 150);
+            label8.Name = "label8";
+            label8.Size = new Size(24, 15);
+            label8.TabIndex = 19;
+            label8.Text = "Tax";
+            // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.Location = new Point(19, 25);
+            label7.Name = "label7";
+            label7.Size = new Size(38, 15);
+            label7.TabIndex = 18;
+            label7.Text = "Menu";
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(97, 25);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(246, 23);
+            textBox1.TabIndex = 0;
             // 
             // TransactionForm
             // 
