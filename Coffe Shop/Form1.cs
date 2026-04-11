@@ -37,5 +37,12 @@ namespace Coffe_Shop
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            SignUpForm signUpForm = new SignUpForm();
+            signUpForm.Show();
+            this.Hide();
+        }
     }
 }

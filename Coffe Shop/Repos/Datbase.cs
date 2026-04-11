@@ -22,6 +22,7 @@ namespace Coffe_Shop.Repos
             Server = "localhost",
             Port = 3306,
             Database = "db_coffe_aone",
+            UserID = "root",
             Password = "",
             Pooling = true,
             MinimumPoolSize = 0,
